@@ -12,7 +12,7 @@ recommend improvements.
 
 <p align="center">
 Assessment Report: <br/>
-<img src="https://imgur.com/a/EwFBfek height="80%" 
+<img src="https://imgur.com/a/LqjZJM1" 
 <br />
 <br />
 Enter the number of passes: <br/>
