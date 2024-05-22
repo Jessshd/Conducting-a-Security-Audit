@@ -12,28 +12,22 @@ recommend improvements.
 
 <p align="center">
 Assessment Report: <br/>
-<img src="!https://imgur.com/a/LqjZJM1](https://imgur.com/a/2J1fdtf)](https://imgur.com/UssZDzH).jpg" 
+<img src="https://i.imgur.com/zS3Aaxv.jpg" 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src=https://i.imgur.com/JfwD6Vn.jpg"
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/YEyoH1d.jpg"
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/ZinU0jm.jpg"
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
